@@ -1,3 +1,6 @@
+
+
+
 #printing the title
 print("my daily routine")
 
@@ -15,4 +18,6 @@ print("i attend my pytho class till 10 PM")
 
 # 4 using phone again
 print("i use my phone till 11 PM or 12 AM")
+
+
 

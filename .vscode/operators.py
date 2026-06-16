@@ -1,0 +1,27 @@
+# 1) Ask the user to enter marks for 4 subjects: math, english, science, and hindi.
+
+# Store each mark in its own variable.
+
+# 2) Add all 4 subject marks and store the total in `sum`.
+
+# 3) Print the total marks stored in `sum`.
+
+# 4) Calculate the percentage:
+
+# - Divide `sum` by 400 (total maximum marks for 4 subjects, assuming each is out of 100)
+
+# - Multiply the result by 100
+
+# Store the final value in `perc`.
+
+# 5) Print the percentage stored in `perc`.
+maths=50
+science=60
+social=70
+hindi=80
+sum=maths+science+social+hindi
+print(sum)
+d=sum/400
+perc=d*100
+print(perc)
+
